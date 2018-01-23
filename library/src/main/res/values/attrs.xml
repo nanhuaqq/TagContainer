@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="bjTagsContainView">
+        <attr name="bj__hcount" format="integer"></attr>
+        <attr name="bj__vgap" format="dimension|reference"></attr>
+        <attr name="bj__hgap" format="dimension|reference"></attr>
+        <attr name="bj__tag_paddingLeftAndRight" format="dimension|reference"></attr>
+        <attr name="bj__tag_bg" format="reference"></attr>
+        <attr name="bj__tag_height" format="dimension|reference"></attr>
+        <attr name="bj__tag_textsize" format="dimension|reference"></attr>
+        <attr name="bj__tag_textColor" format="reference"></attr>
+        <attr name="bj__multi_mode" format="boolean"></attr>
+        <attr name="bj__auto_adjust" format="boolean"></attr>
+        <attr name="bj__support_animation" format="boolean"></attr>
+    </declare-styleable>
+</resources>
