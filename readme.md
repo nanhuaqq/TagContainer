@@ -4,3 +4,6 @@
 
 效果如下图所示：
 ![https://github.com/nanhuaqq/TagContainer/blob/master/art/ezgif-4-d8ddce92a3.gif?raw=true]()
+
+##特性
+支持多选/单选/互斥/简单动画/可自定义背景/字体颜色等
